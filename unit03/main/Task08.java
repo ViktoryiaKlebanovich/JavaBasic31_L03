@@ -59,6 +59,6 @@ public class Task08 {
       System.out.println("Z = " + z);
     }
   }
-}
+}//Молодец. Зачтено
 
 
